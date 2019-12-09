@@ -18,9 +18,4 @@ Linux dataset is dated on 2014, on the basis of Linux version 3.16. It provide a
  - Node : File
  - Edge : Inclusion
 
-The dataset is presented using Edge List of the network in space separated values format, with one edge per line. The meaning of the columns in out.csv are:
- - First column : ID of from node (File)
- - Second column: ID of to node (File)
-
-
 <img src="img/ForceAtlas.png">
